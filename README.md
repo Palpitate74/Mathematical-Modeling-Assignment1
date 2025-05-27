@@ -1,0 +1,2 @@
+# Mathematical-Modeling-Assignment1
+2025年同济大学春季学期cxd老师数学建模课程第一次大作业B题
