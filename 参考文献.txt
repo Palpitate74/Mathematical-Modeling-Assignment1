@@ -1,0 +1,28 @@
+@article{ JJKX200103012,
+author = { 张良桥 },
+title = {进化稳定均衡与纳什均衡——兼谈进化博弈理论的发展},
+journal = {经济科学},
+number = {03},
+pages = {103-111},
+year = {2001},
+issn = {1002-5839},
+doi = {10.19523/j.jjkx.2001.03.013}
+}
+
+@article{ JYJU201910020,
+author = { 张志雄 and  张静之 and  赵春锋 },
+title = {微信红包随机金额生成算法模拟及应用},
+journal = {教育教学论坛},
+volume = {},
+number = {10},
+pages = {51-53},
+year = {2019},
+issn = {1674-9324},
+}
+
+@mastersthesis { 2008086001.nh,
+author = { 郭生良 },
+title = {γ能谱的蒙特卡罗计算方法探讨与模拟软件设计},
+school = {成都理工大学},
+year = {2008}
+}
